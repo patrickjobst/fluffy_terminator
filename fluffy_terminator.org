@@ -1,0 +1,9 @@
+fluffy_terminator org file
+Meilensteine:
+* Neues Excel Worksheet 'Zusammenfassung Kontinente' anlegen
+oder (Inhalt) löschen und anlegen falls schon vorhanden
+* Liste aller vorhanden Worksheets erstellen
+* Worksheet 'Summary' finden und aus der Eingabeliste ausschließen
+* Die Spalten(namen) 'Land', 'Kunde', 'Umsatz', 'Auftragsnummer' in dieser Reihenfolge im Worksheet 'Zusammenfassung Kontinente' anlegen
+* Die Spalten(namen) 'Land', 'Kunde', 'Umsatz', 'Auftragsnummer' in den Worksheets der Eingabeliste identifizieren
+* Zeilenweise die Daten aus de Worksheets auslesen und richtig sortiert in 'Zusammenfassung Kontinente' einfügen.

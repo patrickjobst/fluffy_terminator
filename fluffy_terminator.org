@@ -3,6 +3,7 @@ Meilensteine:
 * DONE Neues Excel Worksheet 'Zusammenfassung Kontinente' anlegen
 oder (Inhalt) löschen und anlegen falls schon vorhanden
 * DONE Liste aller vorhanden Worksheets erstellen
+* DONE Die Anzahl der Spalten pro Worksheet ermitteln
 * Worksheet 'Summary' finden und aus der Eingabeliste ausschließen
 * Die Spalten(namen) 'Land', 'Kunde', 'Umsatz', 'Auftragsnummer' in dieser Reihenfolge im Worksheet 'Zusammenfassung Kontinente' anlegen
 * Die Spalten(namen) 'Land', 'Kunde', 'Umsatz', 'Auftragsnummer' in den Worksheets der Eingabeliste identifizieren
